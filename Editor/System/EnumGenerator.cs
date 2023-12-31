@@ -337,7 +337,7 @@ namespace com.Klazapp.Editor
         private void ChooseSaveLocation()
         {
             var path = EditorUtility.SaveFilePanel("Save Enum Script", "", enumName + ".cs", "cs");
-            Debug.Log("path = " + path);
+          
             if (!string.IsNullOrEmpty(path))
             {
                 GenerateEnum(path);
