@@ -1,0 +1,16 @@
+{
+  "name": "com.klazapp.enumgenerator",
+  "displayName": "Klazapp Custom Enum Generator",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "This custom editor helper tool development",
+  "keywords": [
+    "config",
+    "file",
+    "data"
+  ],
+  "category": "Utility",
+  "dependencies": {
+    "com.klazapp.editor.helper": "1.0.0"
+  }
+}

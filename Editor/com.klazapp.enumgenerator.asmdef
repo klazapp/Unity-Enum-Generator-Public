@@ -1,0 +1,16 @@
+{
+    "name": "com.klazapp.enumgenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aa002eef81f9741f9a6809ae878e69e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
