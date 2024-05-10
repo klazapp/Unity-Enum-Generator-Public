@@ -3,7 +3,7 @@
   "displayName": "Klazapp Enum Generator",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "This custom editor helper tool development",
+  "description": "Klazapp Enum Generator streamlines the creation of enums in Unity, providing a user-friendly GUI for quick setup, customization, and generation of enum scripts directly within the Unity Editor.",
   "keywords": [
     "config",
     "file",
